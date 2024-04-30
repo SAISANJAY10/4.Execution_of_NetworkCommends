@@ -62,6 +62,7 @@ print(result,unans)
 
 ## Output
 TRACER
+
 ![Screenshot 2024-04-30 090716](https://github.com/SAISANJAY10/4.Execution_of_NetworkCommends/assets/144228073/9501d7df-8649-4434-8ef9-9d970e7a7a06)
 
 CLIENT
@@ -69,6 +70,7 @@ CLIENT
 ![Screenshot 2024-04-30 090727](https://github.com/SAISANJAY10/4.Execution_of_NetworkCommends/assets/144228073/d14de075-0769-4870-96d4-837613ef8d6d)
 
 SERVER
+
 ![Screenshot 2024-04-30 090736](https://github.com/SAISANJAY10/4.Execution_of_NetworkCommends/assets/144228073/9d06ee6c-4fb4-425f-92de-a754a520c716)
 
 
